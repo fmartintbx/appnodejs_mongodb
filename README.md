@@ -1,4 +1,4 @@
-Sure, here's an example introduction to a cooking blog app for your GitHub repository
+
 Welcome to the Recipe Blog App repository! 🍳📝
 
 ## Overview
